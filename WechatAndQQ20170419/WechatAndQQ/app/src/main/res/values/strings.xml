@@ -1,0 +1,13 @@
+<resources>
+	<string name="app_name">WechatAndQQ</string>
+    <string name="version_notice">您手机系统的版本为安卓5.0及其以上,应用将直接跳转到授权页面，授权后重启应用即可使用。</string>
+	<string name="get_permission">获取权限</string>
+	<string name="start_statistics">开始统计</string>
+	<string name="stop_services">停止服务</string>
+	<string name="qq_statistics">查看QQ统计情况</string>
+	<string name="wechat_statistics">查看微信统计情况</string>
+	<string name="normal_notice">已获取相关权限，点击“开始”启用功能</string>
+	<string name="service_started">开始统计</string>
+	<string name="title_activity_qq_information_show">qq_information_show</string>
+
+</resources>
